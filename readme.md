@@ -1,9 +1,8 @@
 # Ryan Quotinator
 
+A command line application which will provide you with some Sage Wisdom of the sloth.
+
 To run this project follow these steps:
 
-- nvm install 6.9
-- npm install yarn -g
-- yarn
-- node index.js
-- enjoy
+    $ npm install
+    $ node index
