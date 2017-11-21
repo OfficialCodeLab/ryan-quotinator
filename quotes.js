@@ -134,9 +134,15 @@ let best_quotes = [
         "id": "B12jTDo6Z",
         "date": "2017-10-23T13:24:51.917Z",
         "text": "I just realized something. The grey beards in skyrim dont have a bathroom and its not like they can go outside for that. Its on top of a snowy mountain."
+    },
+    {
+        "id": "BkfXBPWxf",
+        "date": "2017-11-21T08:34:34.095Z",
+        "text": "They better start prepping their butt holes for the prison. They got the butt hole bingo championships coming up"
     }
 ];
 
 module.exports =  {
     best_quotes: best_quotes
 };
+
